@@ -1,2 +1,2 @@
 # ts-forecasting
-Time Series Forecasting on Solar Irradiance Data with Classical and Machine Learning Models.
+Time Series Forecasting Project with Classical and Machine Learning Models.
